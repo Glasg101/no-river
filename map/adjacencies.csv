@@ -1,0 +1,448 @@
+From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
+12251;10321;sea;8313;-1;-1;-1;-1;;Andaman
+7413;1419;sea;5294;-1;-1;-1;-1;;Moluccas
+10141;1419;sea;5267;-1;-1;-1;-1;;Moluccas
+480;9431;sea;8621;-1;-1;-1;-1;;Netherlands outlier
+8857;2284;sea;7617;1560;1009;1556;1016;PANAMA_CANAL;Panama
+2729;2408;sea;6257;2949;1598;2962;1612;KIEL_CANAL;Kiel
+5388;803;sea;1155;-1;-1;-1;-1;SUEZ_CANAL;Suez
+299;211;sea;2282;-1;-1;-1;-1;;Småland-Öland
+6345;6287;sea;2382;-1;-1;-1;-1;;Skåne-Sjaelland
+3260;3325;sea;2408;-1;-1;-1;-1;;Sjaelland-Fyn
+3374;13260;sea;2408;2971;1622;2973;1620;;SdFyn-Langeland
+13260;13261;sea;2408;2975;1619;2977;1618;;Langeland-Lolland
+13261;3305;sea;2408;2987;1617;2989;1619;;Lolland-Själland
+3277;3325;sea;2408;-1;-1;-1;-1;;Fyn-Jylland
+3325;13259;sea;2408;-1;-1;-1;-1;;Fyn-Samsö
+6364;13259;sea;2408;2965;1642;2968;1641;;Jylland-Samsö
+11251;13258;sea;2408;2954;1621;2956;1621;;Sönderjylland-Als
+11251;3325;sea;2408;2956;1628;2960;1629;;Fyn-SdrJylland
+9388;13257;sea;2358;3010;1608;3012;1609;;Stralsund-Rügen
+83;185;sea;1885;-1;-1;-1;-1;;Estonia-Ösel
+185;6201;sea;1885;-1;-1;-1;-1;;Ösel-Dagö
+83;6201;sea;1660;-1;-1;-1;-1;;Dagö-Estonia
+6891;3838;sea;5579;-1;-1;-1;-1;;Sardinia-Corsica
+9990;4159;sea;5681;-1;-1;-1;-1;;Calabria-Sicily
+9793;9845;sea;8871;-1;-1;-1;-1;;Menorca-Mallorca
+12299;12113;sea;5539;-1;-1;-1;-1;;Singapore-Batam
+7396;1401;sea;5615;-1;-1;-1;-1;;Bangka Belitung-Sumatra
+1342;10279;sea;2737;-1;-1;-1;-1;;Java-Sumatra
+7396;4211;sea;4225;-1;-1;-1;-1;;Bangka-Belitung
+1460;12126;sea;812;-1;-1;-1;-1;;Tanahbala-Sumatra
+12126;1428;sea;812;-1;-1;-1;-1;;Tanahbala-Siberut
+4306;4608;sea;5666;-1;-1;-1;-1;;Soerbaja-Madura
+7654;4273;sea;2239;-1;-1;-1;-1;;Java-Bali
+7293;4273;sea;2239;-1;-1;-1;-1;;Bali-Lombok
+7293;10191;sea;2239;-1;-1;-1;-1;;Lombok-W.Nusa Tenggara
+12162;1298;sea;2124;-1;-1;-1;-1;;West Nusa Tenggara-East Nusa Tenggara
+12151;10219;sea;5414;-1;-1;-1;-1;;East Nusa Tenggara-Pulau Alor
+12444;10222;sea;5515;-1;-1;-1;-1;;Sulawesi-Pulau Buton
+1293;4269;sea;8751;-1;-1;-1;-1;;Surigao-Leyte
+1311;4228;sea;2856;-1;-1;-1;-1;;San Bernardino Strait
+4288;1221;sea;2876;-1;-1;-1;-1;;Mindoro-Batangas
+4228;7307;sea;2876;-1;-1;-1;-1;;Ticao Pass
+10302;1261;sea;2876;-1;-1;-1;-1;;Panay-Negros
+10186;12153;sea;8751;-1;-1;-1;-1;;Negros-Cebu
+7385;12153;sea;8751;-1;-1;-1;-1;;Bohol-Cebu
+7557;1574;sea;5390;-1;-1;-1;-1;;Buru-Seram
+7557;7369;sea;4899;-1;-1;-1;-1;;Buru-Taliabu
+10342;1437;sea;4899;-1;-1;-1;-1;;Obi-Bacan
+7413;1437;sea;4899;-1;-1;-1;-1;;Halmahera-Bacan
+4509;7542;sea;2585;-1;-1;-1;-1;;Papua-Japen
+10251;1329;sea;430;5112;550;5122;559;;Papua-New Britain
+7251;4421;sea;7010;-1;-1;-1;-1;;New Britain-Latangai
+13021;13022;sea;8673;-1;-1;-1;-1;;Gilbert Islands
+4268;4231;sea;5741;-1;-1;-1;-1;;New Caledonia 1
+1237;12120;sea;5660;-1;-1;-1;-1;;New Caledonia 2
+12632;1814;sea;5637;-1;-1;-1;-1;;North-South NZ Islands
+10231;10248;sea;430;-1;-1;-1;-1;;New Guinea-Fergusson
+12246;10288;sea;5513;-1;-1;-1;-1;;Cobourg-Australia
+1042;7437;sea;6819;-1;-1;-1;-1;;San Cristobal-Guadalcanal
+4292;10319;sea;5868;-1;-1;-1;-1;;Guadalcanal-Munda
+10319;12265;sea;5868;-1;-1;-1;-1;;Munda-Choiseul
+12265;4252;sea;5868;-1;-1;-1;-1;;Choiseul-Santa Isabel
+4252;1085;sea;5868;-1;-1;-1;-1;;Santa Isabel-Malaita
+1085;10291;sea;5868;-1;-1;-1;-1;;Malaita-Guadalcanal
+1742;7868;sea;2510;-1;-1;-1;-1;;Sakhalin-Siberia
+12661;7884;sea;8538;-1;-1;-1;-1;;Kodiak-Alaska
+11985;1025;sea;7932;-1;-1;-1;-1;;Japan-Kyushu
+4094;7212;sea;8791;-1;-1;-1;-1;;Shikoku-Chugoku
+9965;7072;sea;8791;-1;-1;-1;-1;;Shikoku-Kansai
+1399;1515;sea;220;-1;-1;-1;-1;;Kurils 1
+1515;13037;sea;5614;-1;-1;-1;-1;;Kurils 2
+13037;4646;sea;4465;-1;-1;-1;-1;;Kurils-Hokkaido
+9952;1117;sea;2658;-1;-1;-1;-1;;Niigata-Sado
+10092;7046;sea;8791;-1;-1;-1;-1;;Kyushu-Shikoku
+4198;12032;sea;8472;-1;-1;-1;-1;;Kanoya-Yokushima
+11948;1177;sea;2708;-1;-1;-1;-1;;Jeju-Korea
+10124;1123;sea;8499;-1;-1;-1;-1;;Okinawa 1
+1123;7115;sea;8318;-1;-1;-1;-1;;Okinawa 2
+3995;13024;sea;2855;-1;-1;-1;-1;;Saipan-Tinian
+1135;13090;sea;6471;-1;-1;-1;-1;;Amlia-Unalaska
+13090;10694;sea;6064;-1;-1;-1;-1;;Unalaska-Unimak
+10048;7195;sea;8384;-1;-1;-1;-1;;Hawaii-Maui
+7195;4180;sea;8410;-1;-1;-1;-1;;Maui-Honolulu
+4180;7112;sea;5339;-1;-1;-1;-1;;Honolulu-Kauai
+12148;10188;sea;8660;-1;-1;-1;-1;;Tahiti-Raiatea
+7290;13080;sea;9081;-1;-1;-1;-1;;Samoan Islands
+4286;12159;sea;8289;-1;-1;-1;-1;;Fiji-Sanua Levu
+13055;13056;sea;8419;-1;-1;-1;-1;;Nukufetau-Funafuti
+13056;13057;sea;8419;-1;-1;-1;-1;;Funafuti-Nukulaelae
+13027;13028;sea;2735;-1;-1;-1;-1;;Ngulu-Yap
+13029;13028;sea;2735;-1;-1;-1;-1;;Ulithi-Yap
+2489;13033;sea;7918;-1;-1;-1;-1;;Truk-Hall Islands
+13041;13044;sea;7287;-1;-1;-1;-1;;Carolines 1
+13042;13043;sea;2414;-1;-1;-1;-1;;Carolines 2
+10276;7669;sea;5263;-1;-1;-1;-1;;Tiwi-Darwin
+12910;7567;sea;5771;-1;-1;-1;-1;;Adelaide-Kangaroo Island
+4526;153;sea;2571;-1;-1;-1;-1;;Curacao-Zulia
+10767;3284;sea;2597;-1;-1;-1;-1;;Miranda-Trinidad
+13012;3284;sea;2597;-1;-1;-1;-1;;Tobago-Trinidad
+11106;379;sea;5533;-1;-1;-1;-1;;Grenada-St Vincent
+379;11350;sea;5533;-1;-1;-1;-1;;St Vincent-Barbados
+379;13009;sea;5533;-1;-1;-1;-1;;St Vincent-St Lucia
+13009;177;sea;5533;-1;-1;-1;-1;;St Lucia-Martinique
+177;7123;sea;5533;-1;-1;-1;-1;;Martinique-Dominica
+7123;9377;sea;5533;-1;-1;-1;-1;;Dominica-Guadeloupe
+9377;4450;sea;2887;-1;-1;-1;-1;;Guadeloupe-Montserrat
+1440;4155;sea;5507;-1;-1;-1;-1;;Puerto Rico-Virgin Islands
+10203;9805;sea;5864;-1;-1;-1;-1;;Corfu-Epirus
+1106;12001;sea;5913;-1;-1;-1;-1;;Lefkada-Epirus
+3401;7127;sea;6801;-1;-1;-1;-1;;Cyclades-Greece
+8435;6864;sea;7452;-1;-1;-1;-1;;Lesbos-Turkey
+6550;4112;sea;7226;-1;-1;-1;-1;;Chios-Turkey
+7003;9941;sea;7226;-1;-1;-1;-1;;Kos-Bodrum
+10007;10122;sea;7226;-1;-1;-1;-1;;Rhodes-Turkey
+9833;11829;sea;5412;-1;-1;-1;-1;;Bosphorus
+9680;6741;sea;8282;-1;-1;-1;-1;;Kerch Strait
+9859;3962;sea;5946;-1;-1;-1;-1;;Tsugaru Strait
+10011;7110;sea;2708;4825;1219;-1;-1;;Tushima-Kyushu
+4160;1070;sea;5244;-1;-1;-1;-1;;Hainan-Strait
+1712;12147;sea;8978;-1;-1;-1;-1;;Quebec-Strait
+3691;7813;sea;6261;-1;-1;-1;-1;;Cold Ass-Strait
+7259;1393;sea;5257;-1;-1;-1;-1;;Vancouver-Strait
+11047;198;sea;8370;-1;-1;-1;-1;;Barents-Strait
+11157;3145;sea;5792;-1;-1;-1;-1;;Northern-Straits
+11090;91;sea;5792;-1;-1;-1;-1;;Northern-Straits
+44;11050;sea;5792;-1;-1;-1;-1;;Northern-Straits
+22;3016;sea;5792;-1;-1;-1;-1;;Northern-Straits
+6062;6205;sea;3590;-1;-1;-1;-1;;West Scottish-Strait
+3178;13269;sea;3590;-1;-1;-1;-1;;Isle of Skye
+13270;11064;sea;3195;-1;-1;-1;-1;;Orkney-Thurso
+8435;6550;sea;7452;-1;-1;-1;-1;;Aegan Isle-Strait
+7304;4360;sea;8614;-1;-1;-1;-1;;New Foundland-Strait
+5407;5382;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar North
+5407;2400;;-1;-1;-1;-1;-1;GIBRALTAR_STRAIT;Gibraltar South
+2455;2431;;-1;-1;-1;-1;-1;DANISH_BELTS_STRAIT;Øresund
+5412;7678;;-1;-1;-1;-1;-1;BOSPHORUS_STRAIT;Bosphorus
+2919;2943;;-1;-1;-1;-1;-1;HORMUZ_STRAIT;hormuz
+10825;1991;impassable;-1;-1;-1;-1;-1;;Himalayas
+10825;8029;impassable;-1;-1;-1;-1;-1;;Himalayas
+10910;1991;impassable;-1;-1;-1;-1;-1;;Himalayas
+10910;12807;impassable;-1;-1;-1;-1;-1;;Himalayas
+12730;2098;impassable;-1;-1;-1;-1;-1;;Himalayas
+12730;5018;impassable;-1;-1;-1;-1;-1;;Himalayas
+10810;5018;impassable;-1;-1;-1;-1;-1;;Himalayas
+1996;5018;impassable;-1;-1;-1;-1;-1;;Himalayas
+1996;8041;impassable;-1;-1;-1;-1;-1;;Himalayas
+1996;5102;impassable;-1;-1;-1;-1;-1;;Himalayas
+4318;5102;impassable;-1;-1;-1;-1;-1;;Himalayas
+1898;8029;impassable;-1;-1;-1;-1;-1;;Himalayas
+1898;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
+3989;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
+1129;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
+4558;10826;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+4558;12653;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+4558;7519;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+12763;10826;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+2084;7519;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+10821;7519;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+4998;12831;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+4998;5082;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+1978;5082;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+1978;8090;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+7975;8090;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+8044;8090;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+8044;5064;impassable;-1;-1;-1;-1;-1;;peshawar mountains
+12805;7519;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
+12805;5087;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
+12805;1766;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
+10417;7519;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
+10417;12653;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
+8027;12653;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
+7224;12653;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
+7224;12314;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
+12218;12314;impassable;-1;-1;-1;-1;-1;;stalinabad mountains
+12370;1766;impassable;-1;-1;-1;-1;-1;;pamir mountains
+12370;12119;impassable;-1;-1;-1;-1;-1;;pamir mountains
+5062;12119;impassable;-1;-1;-1;-1;-1;;pamir mountains
+5062;4828;impassable;-1;-1;-1;-1;-1;;pamir mountains
+4768;4828;impassable;-1;-1;-1;-1;-1;;pamir mountains
+4391;4828;impassable;-1;-1;-1;-1;-1;;pamir mountains
+4391;1703;impassable;-1;-1;-1;-1;-1;;pamir mountains
+4391;12526;impassable;-1;-1;-1;-1;-1;;pamir mountains
+611;3612;impassable;-1;-1;-1;-1;-1;;western alps
+11570;3612;impassable;-1;-1;-1;-1;-1;;western alps
+11570;9587;impassable;-1;-1;-1;-1;-1;;western alps
+6635;9587;impassable;-1;-1;-1;-1;-1;;western alps
+3641;11601;impassable;-1;-1;-1;-1;-1;;central alps
+3641;658;impassable;-1;-1;-1;-1;-1;;central alps
+6661;3662;impassable;-1;-1;-1;-1;-1;;eastern alps
+3662;11587;impassable;-1;-1;-1;-1;-1;;eastern alps
+11587;3660;impassable;-1;-1;-1;-1;-1;;eastern alps
+3660;6675;impassable;-1;-1;-1;-1;-1;;eastern alps
+6675;9633;impassable;-1;-1;-1;-1;-1;;eastern alps
+9633;9630;impassable;-1;-1;-1;-1;-1;;eastern alps
+9630;11618;impassable;-1;-1;-1;-1;-1;;eastern alps
+671;11634;impassable;-1;-1;-1;-1;-1;;austrian alps
+671;3675;impassable;-1;-1;-1;-1;-1;;austrian alps
+3675;668;impassable;-1;-1;-1;-1;-1;;austrian alps
+3674;3675;impassable;-1;-1;-1;-1;-1;;austrian alps
+3674;6691;impassable;-1;-1;-1;-1;-1;;austrian alps
+6691;6687;impassable;-1;-1;-1;-1;-1;;austrian alps
+6691;9650;impassable;-1;-1;-1;-1;-1;;austrian alps
+9650;3684;impassable;-1;-1;-1;-1;-1;;austrian alps
+3314;6336;sea;2752;2885;1578;2890;1581;;Afsluitdijk
+13058;10245;impassable;-1;-1;-1;-1;-1;;Greenland Glacier
+13058;12512;impassable;-1;-1;-1;-1;-1;;Greenland Glacier
+13058;10636;impassable;-1;-1;-1;-1;-1;;Greenland Glacier
+13058;13066;impassable;-1;-1;-1;-1;-1;;Greenland Glacier
+4969;10482;impassable;-1;-1;-1;-1;-1;;Darien
+13314;8051;sea;2691;-1;-1;-1;-1;;Doha
+13318;13266;impassable;-1;-1;-1;-1;-1;;Vatna
+13318;12689;impassable;-1;-1;-1;-1;-1;;Vatna
+13318;4861;impassable;-1;-1;-1;-1;-1;;Vatna
+13318;13268;impassable;-1;-1;-1;-1;-1;;Vatna
+13318;13267;impassable;-1;-1;-1;-1;-1;;Vatna
+4765;1347;impassable;-1;-1;-1;-1;-1;;Banff
+12398;4535;impassable;-1;-1;-1;-1;-1;;Plaquemines
+12768;5093;impassable;-1;-1;-1;-1;-1;;Saudi Desert
+8118;5081;impassable;-1;-1;-1;-1;-1;;Saudi Desert
+8118;12740;impassable;-1;-1;-1;-1;-1;;Saudi Desert
+12768;12894;impassable;-1;-1;-1;-1;-1;;Saudi Desert
+8118;12894;impassable;-1;-1;-1;-1;-1;;Saudi Desert
+8030;12768;impassable;-1;-1;-1;-1;-1;;Saudi Desert
+12768;10870;impassable;-1;-1;-1;-1;-1;;Saudi Desert
+12768;4976;impassable;-1;-1;-1;-1;-1;;Saudi Desert
+12768;5081;impassable;-1;-1;-1;-1;-1;;Saudi Desert
+8118;4932;impassable;-1;-1;-1;-1;-1;;Saudi Desert
+2059;8118;impassable;-1;-1;-1;-1;-1;;Saudi Desert
+13323;12003;sea;9013;-1;-1;-1;-1;;Gozo-Malta
+7041;12849;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1095;1901;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+12711;1901;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+12711;2049;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+12842;2049;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+12842;1126;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+12842;13074;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+12842;12018;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+12842;7958;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10731;7958;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10731;4933;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10731;7908;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+8088;7908;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+8088;1989;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1958;1989;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1958;4022;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1958;5046;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1958;4920;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+7939;8028;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+7939;2056;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+7939;1975;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+7939;5101;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+7939;2068;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+4913;2068;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+4913;5095;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+4913;10749;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+7939;10758;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+8128;10749;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+8128;5004;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+12022;5004;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+12022;12082;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1994;7985;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10754;7985;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10754;8069;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10754;7076;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10754;10785;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1140;10785;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1140;11951;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1140;1060;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1140;12764;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10917;10758;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10917;10805;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10917;10780;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1956;10780;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1956;3123;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1956;5136;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10893;5136;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10893;4902;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1994;4902;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+4191;4902;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+4191;8103;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+4191;7987;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1115;10868;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1115;10725;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1095;12849;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+5035;1901;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+5035;2049;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+5035;1967;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+5035;5053;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+5035;4970;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+4970;8077;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+8077;9943;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+8077;9983;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+8061;9983;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+8061;4992;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10884;4992;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10884;10037;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10884;7154;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10884;12082;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10884;5004;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1043;5004;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1043;10749;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1043;1901;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+4903;1901;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+8077;3987;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+4962;10037;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+4962;11940;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+4962;4117;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+4962;12866;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+4962;12082;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1115;1897;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+1115;7943;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10838;7979;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10838;10779;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+10838;7943;impassable;-1;-1;-1;-1;-1;;Saharran Desert
+8155;8237;impassable;-1;-1;-1;-1;-1;;Outback
+8155;10937;impassable;-1;-1;-1;-1;-1;;Outback
+8155;10958;impassable;-1;-1;-1;-1;-1;;Outback
+12904;10958;impassable;-1;-1;-1;-1;-1;;Outback
+12904;2201;impassable;-1;-1;-1;-1;-1;;Outback
+12904;12993;impassable;-1;-1;-1;-1;-1;;Outback
+2177;12993;impassable;-1;-1;-1;-1;-1;;Outback
+2177;10950;impassable;-1;-1;-1;-1;-1;;Outback
+2177;5170;impassable;-1;-1;-1;-1;-1;;Outback
+2186;5170;impassable;-1;-1;-1;-1;-1;;Outback
+2186;1498;impassable;-1;-1;-1;-1;-1;;Outback
+10473;1498;impassable;-1;-1;-1;-1;-1;;Outback
+10473;7579;impassable;-1;-1;-1;-1;-1;;Outback
+10473;7608;impassable;-1;-1;-1;-1;-1;;Outback
+10473;10949;impassable;-1;-1;-1;-1;-1;;Outback
+10473;8200;impassable;-1;-1;-1;-1;-1;;Outback
+12926;8200;impassable;-1;-1;-1;-1;-1;;Outback
+12926;10969;impassable;-1;-1;-1;-1;-1;;Outback
+2133;10969;impassable;-1;-1;-1;-1;-1;;Outback
+2133;2191;impassable;-1;-1;-1;-1;-1;;Outback
+2133;12948;impassable;-1;-1;-1;-1;-1;;Outback
+2133;5138;impassable;-1;-1;-1;-1;-1;;Outback
+2133;11013;impassable;-1;-1;-1;-1;-1;;Outback
+8134;11013;impassable;-1;-1;-1;-1;-1;;Outback
+12915;1478;impassable;-1;-1;-1;-1;-1;;Outback2
+12915;12311;impassable;-1;-1;-1;-1;-1;;Outback2
+12915;8237;impassable;-1;-1;-1;-1;-1;;Outback2
+12915;4487;impassable;-1;-1;-1;-1;-1;;Outback2
+10979;8237;impassable;-1;-1;-1;-1;-1;;Outback2
+10979;4487;impassable;-1;-1;-1;-1;-1;;Outback2
+10979;2139;impassable;-1;-1;-1;-1;-1;;Outback2
+2223;8237;impassable;-1;-1;-1;-1;-1;;Outback2
+2223;11013;impassable;-1;-1;-1;-1;-1;;Outback2
+12992;11013;impassable;-1;-1;-1;-1;-1;;Outback2
+7623;11013;impassable;-1;-1;-1;-1;-1;;Outback2
+7623;5138;impassable;-1;-1;-1;-1;-1;;Outback2
+7623;8165;impassable;-1;-1;-1;-1;-1;;Outback2
+12906;8165;impassable;-1;-1;-1;-1;-1;;Outback2
+12906;10927;impassable;-1;-1;-1;-1;-1;;Outback2
+2205;10927;impassable;-1;-1;-1;-1;-1;;Outback2
+2205;5211;impassable;-1;-1;-1;-1;-1;;Outback2
+2205;8249;impassable;-1;-1;-1;-1;-1;;Outback2
+2205;10991;impassable;-1;-1;-1;-1;-1;;Outback2
+2205;2221;impassable;-1;-1;-1;-1;-1;;Outback2
+8206;2221;impassable;-1;-1;-1;-1;-1;;Outback2
+10336;2221;impassable;-1;-1;-1;-1;-1;;Outback2
+10336;12949;impassable;-1;-1;-1;-1;-1;;Outback2
+10936;12949;impassable;-1;-1;-1;-1;-1;;Outback2
+10936;1557;impassable;-1;-1;-1;-1;-1;;Outback2
+10936;8230;impassable;-1;-1;-1;-1;-1;;Outback2
+5206;8230;impassable;-1;-1;-1;-1;-1;;Outback2
+5206;2187;impassable;-1;-1;-1;-1;-1;;Outback2
+5206;12957;impassable;-1;-1;-1;-1;-1;;Outback2
+5206;1514;impassable;-1;-1;-1;-1;-1;;Outback2
+12936;1514;impassable;-1;-1;-1;-1;-1;;Outback2
+12936;2139;impassable;-1;-1;-1;-1;-1;;Outback2
+10979;2139;impassable;-1;-1;-1;-1;-1;;Outback2
+10979;4487;impassable;-1;-1;-1;-1;-1;;Outback2
+2205;5225;impassable;-1;-1;-1;-1;-1;;Outback2
+13342;10337;sea;2646;-1;-1;-1;-1;;Galveston
+6889;3868;sea;5838;-1;-1;-1;-1;;Neum
+4920;10838;impassable;-1;-1;-1;-1;-1;;iforgortoputthispartofthesaharain
+6223;13352;;-1;-1;-1;-1;-1;MISSISSIPPI_DELTA;Misipi
+2722;13352;;-1;-1;-1;-1;-1;MISSISSIPPI_DELTA;Misipi south
+5539;5960;;-1;-1;-1;-1;-1;MALACCA_STRAIT;malaca
+1060;12764;impassable;-1;-1;-1;-1;-1;;egypt Desert
+12764;5078;impassable;-1;-1;-1;-1;-1;;egypt Desert
+12764;12033;impassable;-1;-1;-1;-1;-1;;egypt Desert
+12764;12091;impassable;-1;-1;-1;-1;-1;;egypt Desert
+1143;12091;impassable;-1;-1;-1;-1;-1;;egypt Desert
+1143;7148;impassable;-1;-1;-1;-1;-1;;egypt Desert
+10127;7148;impassable;-1;-1;-1;-1;-1;;egypt Desert
+10127;11910;impassable;-1;-1;-1;-1;-1;;egypt Desert
+10127;1071;impassable;-1;-1;-1;-1;-1;;egypt Desert
+10127;992;impassable;-1;-1;-1;-1;-1;;egypt Desert
+10127;7117;impassable;-1;-1;-1;-1;-1;;egypt Desert
+7216;7117;impassable;-1;-1;-1;-1;-1;;egypt Desert
+7216;10031;impassable;-1;-1;-1;-1;-1;;egypt Desert
+7216;7144;impassable;-1;-1;-1;-1;-1;;egypt Desert
+12099;7144;impassable;-1;-1;-1;-1;-1;;egypt Desert
+12099;11974;impassable;-1;-1;-1;-1;-1;;egypt Desert
+12099;12044;impassable;-1;-1;-1;-1;-1;;egypt Desert
+10097;12044;impassable;-1;-1;-1;-1;-1;;egypt Desert
+10097;7073;impassable;-1;-1;-1;-1;-1;;egypt Desert
+10097;1028;impassable;-1;-1;-1;-1;-1;;egypt Desert
+10097;1206;impassable;-1;-1;-1;-1;-1;;egypt Desert
+2064;1206;impassable;-1;-1;-1;-1;-1;;egypt Desert
+2064;12771;impassable;-1;-1;-1;-1;-1;;egypt Desert
+2064;4138;impassable;-1;-1;-1;-1;-1;;egypt Desert
+7987;4138;impassable;-1;-1;-1;-1;-1;;egypt Desert
+7987;12836;impassable;-1;-1;-1;-1;-1;;egypt Desert
+7987;10900;impassable;-1;-1;-1;-1;-1;;egypt Desert
+7987;8103;impassable;-1;-1;-1;-1;-1;;egypt Desert
+13378;241;sea;2729;-1;-1;-1;-1;;helgoland
+9671;677;sea;5430;-1;-1;-1;-1;;Fransisco
+7869;10707;impassable;-1;-1;-1;-1;-1;;mountain
+13400;10707;impassable;-1;-1;-1;-1;-1;;mountain
+1320;7414;impassable;-1;-1;-1;-1;-1;;mountain
+13437;13319;impassable;-1;-1;-1;-1;-1;;mountain
+13318;13447;impassable;-1;-1;-1;-1;-1;;mountain
+13448;1843;sea;6805;-1;-1;-1;-1;;Keys
+13526;13527;impassable;-1;-1;-1;-1;-1;;mountain
+13526;13528;impassable;-1;-1;-1;-1;-1;;mountain
+13318;13446;impassable;-1;-1;-1;-1;-1;;mountain
+10482;13570;impassable;-1;-1;-1;-1;-1;;darien
+10482;13569;impassable;-1;-1;-1;-1;-1;;darien
+10482;13568;impassable;-1;-1;-1;-1;-1;;darien
+10482;13567;impassable;-1;-1;-1;-1;-1;;darien
+10482;7630;impassable;-1;-1;-1;-1;-1;;darien
+13611;8088;impassable;-1;-1;-1;-1;-1;;sahara
+13611;10731;impassable;-1;-1;-1;-1;-1;;sahara
+13612;7041;impassable;-1;-1;-1;-1;-1;;sahara
+13612;1095;impassable;-1;-1;-1;-1;-1;;sahara
+13613;1043;impassable;-1;-1;-1;-1;-1;;sahara
+13613;1095;impassable;-1;-1;-1;-1;-1;;sahara
+13615;1043;impassable;-1;-1;-1;-1;-1;;sahara
+13614;1043;impassable;-1;-1;-1;-1;-1;;sahara
+5095;1095;impassable;-1;-1;-1;-1;-1;;sahara
+5095;7041;impassable;-1;-1;-1;-1;-1;;sahara
+10868;7041;impassable;-1;-1;-1;-1;-1;;sahara
+13616;4913;impassable;-1;-1;-1;-1;-1;;sahara
+13616;8128;impassable;-1;-1;-1;-1;-1;;sahara
+13617;4913;impassable;-1;-1;-1;-1;-1;;sahara
+13617;8128;impassable;-1;-1;-1;-1;-1;;sahara
+13617;10917;impassable;-1;-1;-1;-1;-1;;sahara
+13617;1956;impassable;-1;-1;-1;-1;-1;;sahara
+10884;12866;impassable;-1;-1;-1;-1;-1;;sahara
+12022;7985;impassable;-1;-1;-1;-1;-1;;sahara
+8128;5095;impassable;-1;-1;-1;-1;-1;;sahara
+1956;10805;impassable;-1;-1;-1;-1;-1;;sahara
+13611;1095;impassable;-1;-1;-1;-1;-1;;sahara
+13611;7041;impassable;-1;-1;-1;-1;-1;;sahara
+-1;-1;;-1;-1;-1;-1;-1;-1
